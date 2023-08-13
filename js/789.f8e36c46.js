@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_chat"]=self["webpackChunkvue_chat"]||[]).push([[789],{9789:function(t,e,u){u.r(e),u.d(e,{default:function(){return o}});var n=function(){var t=this,e=t._self._c;return e("button",{class:["ui-button",{disabled:t.disabled}],on:{click:function(e){return t.$emit("click")}}},[t._t("default")],2)},l=[],c={name:"UiButton",props:{disabled:{type:Boolean,default:!1}}},a=c,i=u(1001),s=(0,i.Z)(a,n,l,!1,null,"5cd27635",null),o=s.exports}}]);
+//# sourceMappingURL=789.f8e36c46.js.map
